@@ -1,0 +1,24 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Aplicativo básico em node.js aula de DevOps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigojmcosta/AplicacaoNodeAula.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "aula",
+    "teste"
+  ],
+  "author": "Rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigojmcosta/AplicacaoNodeAula/issues"
+  },
+  "homepage": "https://github.com/rodrigojmcosta/AplicacaoNodeAula#readme"
+}
