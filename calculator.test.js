@@ -8,7 +8,7 @@ test("testando a soma de 1+1", () => {
 })
 
 test("testando divisão de 42/6", () => {
-    expect(calculator.divisao(42,6)).toBe(7);
+    expect(calculator.divisao(42,6)).toBe(8);
 })
 
 test("testando a soma de 5+5", () => {
